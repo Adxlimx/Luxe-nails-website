@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Luxe by Ola Nails</title>
+</head>
+<body>
+  <h1>Welcome to Luxe by Ola 💅🏾</h1>
+  <p>Luxury nails, custom sets, and glam that speaks.</p>
+</body>
+</html>
